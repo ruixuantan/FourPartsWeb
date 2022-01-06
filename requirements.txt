@@ -39,4 +39,4 @@ flask-debugtoolbar==0.10.0
 
 # Background workers
 redis==3.5.3
-celery==4.4.6
+celery==5.2.2
