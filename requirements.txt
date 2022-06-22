@@ -9,7 +9,7 @@ requests==2.24.0
 flake8==3.8.3
 
 # Fourparts dependencies
-numpy==1.19.0
+numpy==1.22.0
 pandas==1.0.5
 py-midicsv==1.10.0
 MIDIUtil==1.2.1
